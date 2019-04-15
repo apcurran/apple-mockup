@@ -4,3 +4,34 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+
+.main-container {
+    width: 1440px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.main-section {
+    width: 1440px;
+    height: 677px;
+    background: lightblue;
+}
+
+.image-container {
+    height: 201px;
+    border-top: 1px solid #fff;
+}
+
+.image-flex-parent {
+    display: flex;
+    list-style-type: none;
+}
+
+.image-flex-parent li img {
+    max-width: 360px;
+}
+
+footer {
+    width: 980px;
+    margin: 0 auto;
+}
