@@ -1,2 +1,2 @@
 # apple-mockup
-Using background images and gradients (Odin)
+Using background images and gradients (Odin Project Curriculum)
